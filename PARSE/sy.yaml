@@ -1,0 +1,16 @@
+---
+people:
+- id 1
+  FirstName: John
+  LastName: Mack
+  Email: john.mack@gmail.com
+- id 2
+  FirstName: Paul
+  LastName: Gibson
+  Email: paul.gibson@gmail.com
+- id 3
+  FirstName: Kane
+  LastName: Walton
+  Email: kane.walton@gmail.com
+...
+---
